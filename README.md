@@ -4,7 +4,7 @@
 The Push Swap project is a sorting algorithm implementation that aims to sort a list of integers using a combination of two stacks and a limited set of operations. The goal is to sort the list with the minimum number of operations possible. This project is commonly used as a coding challenge to test algorithmic skills and understanding of data structures.
 
 <p align="center">
-  <img src="./push_print.gif" alt="Print_screen" width="500"/>
+  <img src="./push_print.gif" alt="Print_screen" width="600"/>
 </p>
 
 ## Algorithm
