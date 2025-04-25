@@ -3,10 +3,6 @@
 ## Description
 The Push Swap project is a sorting algorithm implementation that aims to sort a list of integers using a combination of two stacks and a limited set of operations. The goal is to sort the list with the minimum number of operations possible. This project is commonly used as a coding challenge to test algorithmic skills and understanding of data structures.
 
-<p align="center">
-  <img src="./push_print.gif" alt="Print_screen" width="600"/>
-</p>
-
 ## Algorithm
 The algorithm used in this project is a custom sorting algorithm that leverages two stacks, `stack_a` and `stack_b`, and a set of operations to sort the integers efficiently. The operations include:
 
@@ -54,6 +50,15 @@ gcc -o push_swap push_swap.c
 ```
 
 This will generate the optimized sequence of operations needed to sort the given list of numbers.
+
+## Visual Debugging
+
+A visualizer tool developed by [o-reo](https://github.com/o-reo) can be used to see the algorithm in action.  
+This tool provides a step-by-step animation of the sorting process, helping you understand how the stacks evolve with each operation.
+
+<p align="center">
+  <img src="./push_print.gif" alt="Print_screen" width="600"/>
+</p>
 
 ## Conclusion
 The Push Swap project is an excellent exercise in algorithm design and optimization, demonstrating efficient sorting techniques using limited operations and data structures. By leveraging a structured approach like the **Turk Algorithm**, it minimizes the number of moves required to achieve a sorted sequence.
