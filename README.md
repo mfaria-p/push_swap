@@ -20,6 +20,17 @@ The algorithm used in this project is a custom sorting algorithm that leverages 
 
 The algorithm involves strategically using these operations to move elements between the two stacks and sort the list in ascending order.
 
+## Step-by-Step Example
+
+The following diagram illustrates the Push Swap algorithm using `stack_a` and `stack_b` with a sample input.  
+Each step shows the stacks' states after a specific operation (`pb`, `ra`, `pa`, etc.), helping to visualize how the sorting progresses.
+
+💡 This is based on the input: `3 2 5 1 4`
+
+<p align="center">
+  <img src="./schem.drawio.png" alt="Push Swap Step-by-Step Example" width="800"/>
+</p>
+
 ## Implementation Details
 The sorting algorithm implemented in this project closely follows the **Turk Algorithm**, which ensures efficient sorting by:
 
